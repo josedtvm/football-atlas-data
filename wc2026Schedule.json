@@ -1679,8 +1679,8 @@
       "country": "USA",
       "date": "2026-06-29",
       "kickoff": "2026-06-28T15:00:00-04:00",
-      "winner": null,
-      "winnerSide": null
+      "winner": "Canada",
+      "winnerSide": "away"
     },
     {
       "id": 74,
