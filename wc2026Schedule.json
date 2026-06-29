@@ -1678,7 +1678,9 @@
       "city": "Los Angeles",
       "country": "USA",
       "date": "2026-06-29",
-      "kickoff": "2026-06-28T15:00:00-04:00"
+      "kickoff": "2026-06-28T15:00:00-04:00",
+      "winner": null,
+      "winnerSide": null
     },
     {
       "id": 74,
@@ -1700,7 +1702,9 @@
       "city": "Houston",
       "country": "USA",
       "date": "2026-06-29",
-      "kickoff": "2026-06-29T13:00:00-04:00"
+      "kickoff": "2026-06-29T13:00:00-04:00",
+      "winner": null,
+      "winnerSide": null
     },
     {
       "id": 75,
@@ -1722,7 +1726,9 @@
       "city": "Atlanta",
       "country": "USA",
       "date": "2026-06-30",
-      "kickoff": "2026-06-29T16:30:00-04:00"
+      "kickoff": "2026-06-29T16:30:00-04:00",
+      "winner": null,
+      "winnerSide": null
     },
     {
       "id": 76,
@@ -1744,7 +1750,9 @@
       "city": "New York",
       "country": "USA",
       "date": "2026-06-30",
-      "kickoff": "2026-06-29T21:00:00-04:00"
+      "kickoff": "2026-06-29T21:00:00-04:00",
+      "winner": null,
+      "winnerSide": null
     },
     {
       "id": 77,
@@ -1766,7 +1774,9 @@
       "city": "Boston",
       "country": "USA",
       "date": "2026-06-30",
-      "kickoff": "2026-06-30T13:00:00-04:00"
+      "kickoff": "2026-06-30T13:00:00-04:00",
+      "winner": null,
+      "winnerSide": null
     },
     {
       "id": 78,
@@ -1788,7 +1798,9 @@
       "city": "Philadelphia",
       "country": "USA",
       "date": "2026-07-01",
-      "kickoff": "2026-06-30T17:00:00-04:00"
+      "kickoff": "2026-06-30T17:00:00-04:00",
+      "winner": null,
+      "winnerSide": null
     },
     {
       "id": 79,
@@ -1810,7 +1822,9 @@
       "city": "Miami",
       "country": "USA",
       "date": "2026-07-01",
-      "kickoff": "2026-06-30T21:00:00-04:00"
+      "kickoff": "2026-06-30T21:00:00-04:00",
+      "winner": null,
+      "winnerSide": null
     },
     {
       "id": 80,
@@ -1832,7 +1846,9 @@
       "city": "Kansas City",
       "country": "USA",
       "date": "2026-07-01",
-      "kickoff": "2026-07-01T12:00:00-04:00"
+      "kickoff": "2026-07-01T12:00:00-04:00",
+      "winner": null,
+      "winnerSide": null
     },
     {
       "id": 81,
@@ -1854,7 +1870,9 @@
       "city": "Dallas",
       "country": "USA",
       "date": "2026-07-02",
-      "kickoff": "2026-07-01T16:00:00-04:00"
+      "kickoff": "2026-07-01T16:00:00-04:00",
+      "winner": null,
+      "winnerSide": null
     },
     {
       "id": 82,
@@ -1876,7 +1894,9 @@
       "city": "Seattle",
       "country": "USA",
       "date": "2026-07-02",
-      "kickoff": "2026-07-01T20:00:00-04:00"
+      "kickoff": "2026-07-01T20:00:00-04:00",
+      "winner": null,
+      "winnerSide": null
     },
     {
       "id": 83,
@@ -1898,7 +1918,9 @@
       "city": "Orlando",
       "country": "USA",
       "date": "2026-07-03",
-      "kickoff": "2026-07-02T15:00:00-04:00"
+      "kickoff": "2026-07-02T15:00:00-04:00",
+      "winner": null,
+      "winnerSide": null
     },
     {
       "id": 84,
@@ -1920,7 +1942,9 @@
       "city": "San Francisco",
       "country": "USA",
       "date": "2026-07-03",
-      "kickoff": "2026-07-02T19:00:00-04:00"
+      "kickoff": "2026-07-02T19:00:00-04:00",
+      "winner": null,
+      "winnerSide": null
     },
     {
       "id": 85,
@@ -1942,7 +1966,9 @@
       "city": "Vancouver",
       "country": "Canada",
       "date": "2026-07-03",
-      "kickoff": "2026-07-02T23:00:00-04:00"
+      "kickoff": "2026-07-02T23:00:00-04:00",
+      "winner": null,
+      "winnerSide": null
     },
     {
       "id": 86,
@@ -1964,7 +1990,9 @@
       "city": "Toronto",
       "country": "Canada",
       "date": "2026-07-03",
-      "kickoff": "2026-07-03T14:00:00-04:00"
+      "kickoff": "2026-07-03T14:00:00-04:00",
+      "winner": null,
+      "winnerSide": null
     },
     {
       "id": 87,
@@ -1986,7 +2014,9 @@
       "city": "Monterrey",
       "country": "Mexico",
       "date": "2026-07-04",
-      "kickoff": "2026-07-03T18:00:00-04:00"
+      "kickoff": "2026-07-03T18:00:00-04:00",
+      "winner": null,
+      "winnerSide": null
     },
     {
       "id": 88,
@@ -2008,11 +2038,279 @@
       "city": "Mexico City",
       "country": "Mexico",
       "date": "2026-07-04",
-      "kickoff": "2026-07-03T21:30:00-04:00"
+      "kickoff": "2026-07-03T21:30:00-04:00",
+      "winner": null,
+      "winnerSide": null
     }
   ],
-  "round16": [],
-  "quarterFinals": [],
-  "semiFinals": [],
-  "final": []
+  "round16": [
+    {
+      "id": "R16-1",
+      "matchNumber": 89,
+      "home": "TBD",
+      "away": "TBD",
+      "homeCode": null,
+      "awayCode": null,
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "kickoff": null,
+      "venue": null,
+      "winnerOf": [73, 74],
+      "winner": null,
+      "winnerSide": null
+    },
+    {
+      "id": "R16-2",
+      "matchNumber": 90,
+      "home": "TBD",
+      "away": "TBD",
+      "homeCode": null,
+      "awayCode": null,
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "kickoff": null,
+      "venue": null,
+      "winnerOf": [75, 76],
+      "winner": null,
+      "winnerSide": null
+    },
+    {
+      "id": "R16-3",
+      "matchNumber": 91,
+      "home": "TBD",
+      "away": "TBD",
+      "homeCode": null,
+      "awayCode": null,
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "kickoff": null,
+      "venue": null,
+      "winnerOf": [77, 78],
+      "winner": null,
+      "winnerSide": null
+    },
+    {
+      "id": "R16-4",
+      "matchNumber": 92,
+      "home": "TBD",
+      "away": "TBD",
+      "homeCode": null,
+      "awayCode": null,
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "kickoff": null,
+      "venue": null,
+      "winnerOf": [79, 80],
+      "winner": null,
+      "winnerSide": null
+    },
+    {
+      "id": "R16-5",
+      "matchNumber": 93,
+      "home": "TBD",
+      "away": "TBD",
+      "homeCode": null,
+      "awayCode": null,
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "kickoff": null,
+      "venue": null,
+      "winnerOf": [81, 82],
+      "winner": null,
+      "winnerSide": null
+    },
+    {
+      "id": "R16-6",
+      "matchNumber": 94,
+      "home": "TBD",
+      "away": "TBD",
+      "homeCode": null,
+      "awayCode": null,
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "kickoff": null,
+      "venue": null,
+      "winnerOf": [83, 84],
+      "winner": null,
+      "winnerSide": null
+    },
+    {
+      "id": "R16-7",
+      "matchNumber": 95,
+      "home": "TBD",
+      "away": "TBD",
+      "homeCode": null,
+      "awayCode": null,
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "kickoff": null,
+      "venue": null,
+      "winnerOf": [85, 86],
+      "winner": null,
+      "winnerSide": null
+    },
+    {
+      "id": "R16-8",
+      "matchNumber": 96,
+      "home": "TBD",
+      "away": "TBD",
+      "homeCode": null,
+      "awayCode": null,
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "kickoff": null,
+      "venue": null,
+      "winnerOf": [87, 88],
+      "winner": null,
+      "winnerSide": null
+    }
+  ],
+
+  "quarterFinals": [
+    {
+      "id": "QF-1",
+      "matchNumber": 97,
+      "home": "TBD",
+      "away": "TBD",
+      "homeCode": null,
+      "awayCode": null,
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "kickoff": null,
+      "venue": null,
+      "winnerOf": [89, 90],
+      "winner": null,
+      "winnerSide": null
+    },
+    {
+      "id": "QF-2",
+      "matchNumber": 98,
+      "home": "TBD",
+      "away": "TBD",
+      "homeCode": null,
+      "awayCode": null,
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "kickoff": null,
+      "venue": null,
+      "winnerOf": [91, 92],
+      "winner": null,
+      "winnerSide": null
+    },
+    {
+      "id": "QF-3",
+      "matchNumber": 99,
+      "home": "TBD",
+      "away": "TBD",
+      "homeCode": null,
+      "awayCode": null,
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "kickoff": null,
+      "venue": null,
+      "winnerOf": [93, 94],
+      "winner": null,
+      "winnerSide": null
+    },
+    {
+      "id": "QF-4",
+      "matchNumber": 100,
+      "home": "TBD",
+      "away": "TBD",
+      "homeCode": null,
+      "awayCode": null,
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "kickoff": null,
+      "venue": null,
+      "winnerOf": [95, 96],
+      "winner": null,
+      "winnerSide": null
+    }
+  ],
+
+  "semiFinals": [
+    {
+      "id": "SF-1",
+      "matchNumber": 101,
+      "home": "TBD",
+      "away": "TBD",
+      "homeCode": null,
+      "awayCode": null,
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "kickoff": null,
+      "venue": null,
+      "winnerOf": [97, 98],
+      "winner": null,
+      "winnerSide": null
+    },
+    {
+      "id": "SF-2",
+      "matchNumber": 102,
+      "home": "TBD",
+      "away": "TBD",
+      "homeCode": null,
+      "awayCode": null,
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "kickoff": null,
+      "venue": null,
+      "winnerOf": [99, 100],
+      "winner": null,
+      "winnerSide": null
+    }
+  ],
+
+  "final": [
+    {
+      "id": "F-1",
+      "matchNumber": 103,
+      "home": "TBD",
+      "away": "TBD",
+      "homeCode": null,
+      "awayCode": null,
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "kickoff": null,
+      "venue": null,
+      "winnerOf": [101, 102],
+      "winner": null,
+      "winnerSide": null
+    }
+  ],
+
+  "thirdPlace": [
+    {
+      "id": "TP-1",
+      "matchNumber": 104,
+      "home": "TBD",
+      "away": "TBD",
+      "homeCode": null,
+      "awayCode": null,
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "kickoff": null,
+      "venue": null,
+      "loserOf": [101, 102],
+      "winner": null,
+      "winnerSide": null
+    }
+  ]
 }
