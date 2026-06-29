@@ -1677,7 +1677,7 @@
       "stadiumId": "los-angeles-stadium",
       "city": "Los Angeles",
       "country": "USA",
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "kickoff": "2026-06-28T15:00:00-04:00"
     },
     {
@@ -1721,7 +1721,7 @@
       "stadiumId": "atlanta-stadium",
       "city": "Atlanta",
       "country": "USA",
-      "date": "2026-06-29",
+      "date": "2026-06-30",
       "kickoff": "2026-06-29T16:30:00-04:00"
     },
     {
@@ -1743,7 +1743,7 @@
       "stadiumId": "new-york-stadium",
       "city": "New York",
       "country": "USA",
-      "date": "2026-06-29",
+      "date": "2026-06-30",
       "kickoff": "2026-06-29T21:00:00-04:00"
     },
     {
@@ -1787,7 +1787,7 @@
       "stadiumId": "philadelphia-stadium",
       "city": "Philadelphia",
       "country": "USA",
-      "date": "2026-06-30",
+      "date": "2026-07-01",
       "kickoff": "2026-06-30T17:00:00-04:00"
     },
     {
@@ -1809,7 +1809,7 @@
       "stadiumId": "miami-stadium",
       "city": "Miami",
       "country": "USA",
-      "date": "2026-06-30",
+      "date": "2026-07-01",
       "kickoff": "2026-06-30T21:00:00-04:00"
     },
     {
@@ -1853,7 +1853,7 @@
       "stadiumId": "dallas-stadium",
       "city": "Dallas",
       "country": "USA",
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "kickoff": "2026-07-01T16:00:00-04:00"
     },
     {
@@ -1875,7 +1875,7 @@
       "stadiumId": "seattle-stadium",
       "city": "Seattle",
       "country": "USA",
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "kickoff": "2026-07-01T20:00:00-04:00"
     },
     {
@@ -1897,7 +1897,7 @@
       "stadiumId": "orlando-stadium",
       "city": "Orlando",
       "country": "USA",
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "kickoff": "2026-07-02T15:00:00-04:00"
     },
     {
@@ -1919,7 +1919,7 @@
       "stadiumId": "san-francisco-stadium",
       "city": "San Francisco",
       "country": "USA",
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "kickoff": "2026-07-02T19:00:00-04:00"
     },
     {
@@ -1941,7 +1941,7 @@
       "stadiumId": "vancouver-stadium",
       "city": "Vancouver",
       "country": "Canada",
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "kickoff": "2026-07-02T23:00:00-04:00"
     },
     {
@@ -1985,7 +1985,7 @@
       "stadiumId": "monterrey-stadium",
       "city": "Monterrey",
       "country": "Mexico",
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "kickoff": "2026-07-03T18:00:00-04:00"
     },
     {
@@ -2007,7 +2007,7 @@
       "stadiumId": "mexico-city-stadium",
       "city": "Mexico City",
       "country": "Mexico",
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "kickoff": "2026-07-03T21:30:00-04:00"
     }
   ],
