@@ -2082,7 +2082,7 @@
       "venue": "Houston Stadium",
 
       "winnerOf": [75, 76],
-      "placeholder": true
+      "placeholder": false
     },
     {
       "id": "R16-2",
@@ -2106,7 +2106,7 @@
       "venue": "Los Angeles Stadium",
 
       "winnerOf": [73, 74],
-      "placeholder": true
+      "placeholder": false
     },
     {
       "id": "R16-3",
@@ -2166,7 +2166,7 @@
       "winnerOf": [81, 82],
       "winner": null,
       "winnerSide": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "id": "R16-6",
