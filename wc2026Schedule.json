@@ -2104,7 +2104,7 @@
       "winnerSide": null,
 
       "date": "2026-07-04",
-      "kickoff": "2026-07-04T22:30:00-07:00",
+      "kickoff": "2026-07-04T22:30:00+05:30",
       "venue": "Los Angeles Stadium",
 
       "winnerOf": [75, 76],
