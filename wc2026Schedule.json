@@ -2079,7 +2079,7 @@
       "winnerSide": null,
 
       "date": "2026-07-05",
-      "kickoff": "2026-07-05T02:30:00-05:00",
+      "kickoff": "2026-07-05T02:30:00+05:30",
       "venue": "Houston Stadium",
 
       "winnerOf": [73, 74],
@@ -2129,7 +2129,7 @@
       "winnerSide": null,
 
       "date": "2026-07-07",
-      "kickoff": "2026-07-06T01:30:00-05:00",
+      "kickoff": "2026-07-07T00:30:00+05:30",
       "venue": "Dallas Stadium",
 
       "winnerOf": [77, 78],
