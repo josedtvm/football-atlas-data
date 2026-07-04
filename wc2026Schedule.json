@@ -2080,7 +2080,7 @@
 
       "date": "2026-07-05",
       "kickoff": "2026-07-05T02:30:00+05:30",
-      "venue": "Houston Stadium",
+      "venue": "Philadelphia Stadium",
 
       "winnerOf": [73, 74],
       "placeholder": false
@@ -2105,7 +2105,7 @@
 
       "date": "2026-07-04",
       "kickoff": "2026-07-04T22:30:00+05:30",
-      "venue": "Los Angeles Stadium",
+      "venue": "Houston Stadium",
 
       "winnerOf": [75, 76],
       "placeholder": false
@@ -2130,7 +2130,7 @@
 
       "date": "2026-07-07",
       "kickoff": "2026-07-07T00:30:00+05:30",
-      "venue": "Dallas Stadium",
+      "venue": "AT&T Stadium, Texas",
 
       "winnerOf": [77, 78],
       "placeholder": false
@@ -2148,7 +2148,7 @@
       "status": "scheduled",
       "date": "2026-07-07",
       "kickoff": "2026-07-07T05:30:00+05:30",
-      "venue": null,
+      "venue": "Seattle Stadium",
       "winnerOf": [79, 80],
       "winner": null,
       "winnerSide": null,
@@ -2167,7 +2167,7 @@
       "status": "scheduled",
       "date": "2026-07-06",
       "kickoff": "2026-07-06T01:30:00+05:30",
-      "venue": null,
+      "venue": "New York New Jersey Stadium",
       "winnerOf": [81, 82],
       "winner": null,
       "winnerSide": null,
@@ -2186,7 +2186,7 @@
       "status": "scheduled",
       "date": "2026-07-06",
       "kickoff": "2026-07-06T05:30:00+05:30",
-      "venue": null,
+      "venue": "Mexico City Stadium",
       "winnerOf": [83, 84],
       "winner": null,
       "winnerSide": null,
@@ -2205,7 +2205,7 @@
       "status": "scheduled",
       "date": "2026-07-07",
       "kickoff": "2026-07-07T21:30:00+05:30",
-      "venue": null,
+      "venue": "Mercedes-Benz Stadium, Atlanta",
       "winnerOf": [85, 86],
       "winner": null,
       "winnerSide": null,
@@ -2224,7 +2224,7 @@
       "status": "scheduled",
       "date": "2026-07-08",
       "kickoff": "2026-07-08T01:30:00+05:30",
-      "venue": null,
+      "venue": "BC Place, Vancouver",
       "winnerOf": [87, 88],
       "winner": null,
       "winnerSide": null,
