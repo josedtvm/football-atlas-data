@@ -2177,7 +2177,7 @@
       "id": "R16-6",
       "matchNumber": 94,
       "stage": "round16",
-      "status": "live",
+      "status": "finished",
       "home": "Mexico",
       "away": "England",
       "homeCode": "MX",
@@ -2188,8 +2188,8 @@
       "kickoff": "2026-07-06T05:30:00+05:30",
       "venue": "Mexico City Stadium",
       "winnerOf": [83, 84],
-      "winner": null,
-      "winnerSide": null,
+      "winner": "England",
+      "winnerSide": "away",
       "placeholder": false
     },
     {
