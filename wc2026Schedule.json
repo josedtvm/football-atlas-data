@@ -2250,7 +2250,7 @@
       "winnerOf": [89, 90],
       "winner": null,
       "winnerSide": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "id": "QF-2",
