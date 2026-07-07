@@ -2257,18 +2257,18 @@
       "matchNumber": 98,
       "stage": "quarterFinals",
       "status": "scheduled",
-      "home": "TBD",
-      "away": "TBD",
-      "homeCode": null,
-      "awayCode": null,
+      "home": "Spain",
+      "away": "Belgium",
+      "homeCode": "ES",
+      "awayCode": "BE",
       "homeScore": null,
       "awayScore": null,
-      "kickoff": null,
-      "venue": null,
+      "kickoff": "2026-07-11T00:30:00+05:30",
+      "venue": "Los Angeles Stadium",
       "winnerOf": [91, 92],
       "winner": null,
       "winnerSide": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "id": "QF-3",
@@ -2281,12 +2281,12 @@
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
-      "kickoff": null,
-      "venue": null,
+      "kickoff": "2026-07-12T02:30:00+05:30",
+      "venue": "Miami Stadium",
       "winnerOf": [93, 94],
       "winner": null,
       "winnerSide": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "id": "QF-4",
