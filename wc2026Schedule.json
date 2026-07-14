@@ -2325,7 +2325,7 @@
       "winnerOf": [97, 98],
       "winner": null,
       "winnerSide": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "id": "SF-2",
@@ -2343,7 +2343,7 @@
       "winnerOf": [99, 100],
       "winner": null,
       "winnerSide": null,
-      "placeholder": true
+      "placeholder": false
     }
   ],
 
