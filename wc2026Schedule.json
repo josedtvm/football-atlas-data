@@ -2317,14 +2317,14 @@
       "away": "Spain",
       "homeCode": "FR",
       "awayCode": "ES",
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 2,
       "status": "scheduled",
       "kickoff": "2026-07-15T00:30:00+05:30",
       "venue": "Dallas Stadium",
       "winnerOf": [97, 98],
-      "winner": null,
-      "winnerSide": null,
+      "winner": "Spain",
+      "winnerSide": "away",
       "placeholder": false
     },
     {
