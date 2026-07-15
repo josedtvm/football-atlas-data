@@ -2335,14 +2335,14 @@
       "away": "Argentina",
       "homeCode": "GB",
       "awayCode": "AR",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "live",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "finished",
       "kickoff": "2026-07-16T00:30:00+05:30",
       "venue": "Atlanta Stadium",
       "winnerOf": [99, 100],
-      "winner": null,
-      "winnerSide": null,
+      "winner": "Argentina",
+      "winnerSide": "away",
       "placeholder": false
     }
   ],
@@ -2353,9 +2353,9 @@
       "matchNumber": 103,
       "stage": "final",
       "home": "Spain",
-      "away": "TBD",
+      "away": "Argentina",
       "homeCode": "ES",
-      "awayCode": null,
+      "awayCode": "AR",
       "homeScore": null,
       "awayScore": null,
       "status": "scheduled",
@@ -2364,7 +2364,7 @@
       "winnerOf": [101, 102],
       "winner": null,
       "winnerSide": null,
-      "placeholder": true
+      "placeholder": false
     }
   ],
 
