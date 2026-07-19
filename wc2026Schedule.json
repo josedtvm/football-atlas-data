@@ -2358,12 +2358,12 @@
       "awayCode": "AR",
       "homeScore": 1,
       "awayScore": 0,
-      "status": "live",
+      "status": "finished",
       "kickoff": "2026-07-20T00:30:00+05:30",
       "venue": "New York",
       "winnerOf": [101, 102],
-      "winner": null,
-      "winnerSide": null,
+      "winner": "Spain",
+      "winnerSide": "home",
       "placeholder": false
     }
   ],
